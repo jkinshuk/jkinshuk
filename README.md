@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kinshuk Jain</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
+<img  src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" alt="kinshukjain" align="right" width="400">
+
 - 🔭 I’m currently working on **Portfolio Website**
 
 - 🌱 I’m currently learning **ReactJS , NodeJS , ExpressJS , Java with DSA**
